@@ -1,1 +1,1 @@
-# SociallMediaAnalysis
+# SocialMediaAnalysis
